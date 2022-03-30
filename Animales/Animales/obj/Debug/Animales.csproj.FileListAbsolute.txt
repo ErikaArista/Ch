@@ -1,0 +1,3 @@
+C:\Users\Garci\Downloads\Cs\Animales\Animales\obj\Debug\Animales.csproj.AssemblyReference.cache
+C:\Users\Garci\Downloads\Cs\Animales\Animales\obj\Debug\Animales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Garci\Downloads\Cs\Animales\Animales\obj\Debug\Animales.csproj.CoreCompileInputs.cache
