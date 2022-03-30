@@ -1,0 +1,8 @@
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\bin\Debug\Profesora.exe.config
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\bin\Debug\Profesora.exe
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\bin\Debug\Profesora.pdb
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\obj\Debug\Profesora.csproj.AssemblyReference.cache
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\obj\Debug\Profesora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\obj\Debug\Profesora.csproj.CoreCompileInputs.cache
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\obj\Debug\Profesora.exe
+C:\Users\Garci\Downloads\Cs\Profesora\Profesora\obj\Debug\Profesora.pdb
